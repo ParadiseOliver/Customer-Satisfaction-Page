@@ -1,0 +1,72 @@
+html {
+    height : 100%;
+}
+
+body {
+    height : 100%;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    width: 80%;
+    height: 100%;
+    color: navy;
+    margin: 0%;
+    font-size: 400%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}
+
+button {
+    width : 100%;
+    border: none;
+}
+
+img {
+    margin : 0;
+    padding-left : 0px;
+    width : 100%
+}
+
+p {
+    background-color: beige;
+    text-align : center;
+}
+
+header {
+    height: 30%;
+}
+
+#wrapper {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+}
+    
+#logo {
+    height: 100%;
+    width: 20%;
+    float: left;
+}
+
+.a-div {
+    width : 20%;
+    margin : 0;
+    float : left;
+}
+
+.admin {
+    width : 20%;
+    margin : 0;
+    float : left;
+    position: relative;
+    left: 30%;
+    border: 1pt solid black;
+    border-radius: 3pt;
+}
